@@ -177,9 +177,9 @@ if (keyIsDown(LEFT_ARROW))
 
     
     if(power){
-      if(expo){
-      soundpower.play(-20);
-    }
+      
+      soundpower.play(-2);
+    
 
 
     image(powerimg, xp, yp);
